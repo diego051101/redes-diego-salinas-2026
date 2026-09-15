@@ -1,0 +1,6 @@
+Este es un archivo de prueba para la Actividad 3 de CC4303 Redes.
+El cliente lo lee desde entrada estandar y lo envia al servidor usando la clase SocketTCP,
+que implementa un TCP simplificado sobre sockets UDP con Stop & Wait: 3-way handshake,
+segmentos de a lo mas 16 bytes de datos, mensajes ACK, timeouts, retransmisiones y cierre de conexion.
+Si todo funciona bien, el servidor debe imprimir exactamente este mismo texto, incluso con perdidas.
+Acentos en UTF-8 para verificar que se envian bytes y no texto: canción, pingüino, ñandú.
