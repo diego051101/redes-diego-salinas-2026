@@ -1,4 +1,4 @@
-# Actividad 3 - Control 2 - CC4303 Redes (Primavera 2026)
+# Actividad 3 - Control 2 - Redes (CC4303), primavera 2026
 # Universidad de Chile - FCFM - Departamento de Ciencias de la Computacion
 # Profesora: Ivana Bachmann
 # Integrante: Diego Salinas
